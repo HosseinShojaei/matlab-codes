@@ -6,7 +6,7 @@ L   = 0.3;                       %Pendulum length
 l   = 0.2175;                    %Length of center of mass of Pendulum
 r   = 0.00875;                   %Radius of pulley
 
-Ra  = 10.6;
+Ra  = 10.5;
 kt  = 0.0436;
 kb  = 0.0466;
 
